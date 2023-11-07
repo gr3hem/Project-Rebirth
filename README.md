@@ -7,7 +7,7 @@
 Project Rebirth™ is a project made by one person on their own time. Disguised for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security (about:blank precautions) and performance in mind.
 ## Features
 
-Project Rebirth™, built solely off of scratch Visual Studio Code ideas, is a website launcher
+Project Rebirth™, built solely off of scratch Visual Studio Code ideas, is a website launcher made for the intent of use of a web searcher, but everything is accessible. Nothing's in your way with Project Rebirth™.
 
 ## Supported Sites
 
